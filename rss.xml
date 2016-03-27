@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[macherie-edwards]]></title>
+        <description><![CDATA[macherie-edwards]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 22:37:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Design Institute for Health]]></title>
+            <description><![CDATA[<h1>Design Institute for Health</h1>]]></description>
+            <link>undefineddesign-institute-for-health/index.html</link>
+            <guid isPermaLink="false">da630e50-a602-4ca1-b1db-1340752caa99</guid>
+            <pubDate>Sun, 27 Mar 2016 22:37:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
