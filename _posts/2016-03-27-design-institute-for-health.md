@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-27T22:38:22.374Z'
-dateModified: '2016-03-27T22:38:22.026Z'
+datePublished: '2016-03-27T22:42:46.308Z'
+dateModified: '2016-03-27T22:42:36.210Z'
 title: Design Institute for Health
 author: []
 authors: []
@@ -22,30 +22,4 @@ url: design-institute-for-health/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c463d3fe-4bc5-4e32-8888-425aa83f9657.jpg)
-
-Design Institute for Health
-
-**Brief:**
-
-Create a digital platform that would educate, enable, and empower patients to traverse the outpatient surgical care experience with greater confidence, engagement, and less anxiety. 
-
-**Timeline:**
-
-3 weeks
-
-**Teammates:**
-
-Britt Mottola, Stephen Webster
-
-**Organization:**
-
-Design Institute for Health
-
-**Process:**
-
-User Interviews, Contextual Inquiry, Journey Mapping, Service Blueprinting,  Card Sorting, Usability Testing
-
-**My Role:**
-
-During the course of the project, I was individually responsible for creating a service blueprint outlining digital touch-points, physical interactions, and technology needs necessary to execute our solution. I also created a document detailing existing solutions the Design Institute for Health could leverage to help implement these digital tools within their limited timeframe.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c80d346e-2741-40b2-b1b1-44c81e342c0a.jpg)
