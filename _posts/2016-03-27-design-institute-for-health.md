@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-27T22:37:07.867Z'
-dateModified: '2016-03-27T22:36:54.397Z'
+datePublished: '2016-03-27T22:38:22.374Z'
+dateModified: '2016-03-27T22:38:22.026Z'
 title: Design Institute for Health
 author: []
 authors: []
